@@ -6,7 +6,6 @@ Create a file named direcciones.txt and add the IP addresses you want to check, 
 1. Open the script file and locate the following variables:
 
 ~~~bash
-Copy code
 archivo_direcciones="direcciones.txt"
 archivo_resultados="resultados.txt"
 ~~~
