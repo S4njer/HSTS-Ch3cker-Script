@@ -1,6 +1,8 @@
 # HSTS-Ch3cker-Script
 This Bash script allows you to check for the presence of "HTTP Strict Transport Security (HSTS)" in a list of IP addresses. It performs repeated curl requests for both HTTP and HTTPS connections to each IP address and saves the results in a file. The script also applies colors to the output messages using ANSI escape sequences.
 
+![hsts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.acunetix.com%2Fwp_content%2Fuploads%2F2019%2F05%2Fhsts.png&f=1&nofb=1&ipt=b6795ce5bbf04d5eb89f0002e8f2ff8576426302c0dc9cc641b324a33053c89c&ipo=images)
+
 ## Usage
 Create a file named direcciones.txt and add the IP addresses you want to check, with each IP address on a new line.
 1. Open the script file and locate the following variables:
