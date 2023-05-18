@@ -25,7 +25,6 @@ The script will start checking the HSTS for each IP address in the direcciones.t
 
 Once the script finishes, you can open the resultados.txt file to view the detailed results.
 
-> [!INFO]
 > **Note**: The script assumes that you have the curl command installed on your system. If not, you can install it using package managers like apt (for Debian-based systems) or yum (for Red Hat-based systems).
 
 To configure the script according to your needs, you can follow these steps:
